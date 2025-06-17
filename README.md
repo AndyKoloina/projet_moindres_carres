@@ -6,6 +6,15 @@ L'objectif est de démontrer une compréhension pratique des concepts d'algèbre
 
 ---
 
+## 👥 Auteurs du Projet
+
+* Andriantsalama Rijamampianina
+* Raharimanitra-Mala T. Jason H.
+* RAKOTONIRINA Mendrika Itokiana
+* Ranaivo Nirina Andy Nantenaina
+
+---
+
 ## ✅ Objectifs
 
 -   **Implémenter** des concepts clés d'algèbre linéaire, notamment la décomposition QR.
