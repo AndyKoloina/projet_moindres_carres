@@ -12,6 +12,7 @@ L'objectif est de démontrer une compréhension pratique des concepts d'algèbre
 * Raharimanitra-Mala T. Jason H.
 * RAKOTONIRINA Mendrika Itokiana
 * Ranaivo Nirina Andy Nantenaina
+* ANDRIANARISON Maheritsizakaina Merina Fitiavana Jean
 
 ---
 
